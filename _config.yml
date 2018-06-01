@@ -22,7 +22,7 @@ name                     : "Lauren Hirata"
 description              : "A blog about technical writing."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : lhirata.github.com/blog
+repository               : lhirata/blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -76,8 +76,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
+instagram:
+  username               : laurenhirata
 facebook:
   username               :
   app_id                 :
@@ -113,13 +113,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : @lhirata
+  github           : "lhirata"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : @laurenhirata
+  instagram        : "laurenhirata"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "lhirata"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
