@@ -11,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -101,9 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "Lauren Hirata"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/headshot-thumbnail.png"
   bio              : # "I am an amazing person."
-  location         : "NYC"
+  location         : "Brooklyn, NY"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -136,6 +136,8 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
