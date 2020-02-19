@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "default", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lauren Hirata"
+title                    : "Lauren Hirata Singh"
 title_separator          : "-"
-name                     : "Lauren Hirata"
-description              : "A blog about technical writing."
+name                     : "Lauren Hirata Singh"
+description              : "A blog about technical writing. And other stuff."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : lhirata/blog
+repository               : lnhsingh/blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 instagram:
-  username               : laurenhirata
+  username               : lnhsingh
 facebook:
   username               :
   app_id                 :
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lauren Hirata"
+  name             : "Lauren Hirata Singh"
   avatar           : "/assets/headshot-thumbnail.png"
   bio              : # "I am an amazing person."
   location         : "Brooklyn, NY"
