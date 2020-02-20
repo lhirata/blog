@@ -1,8 +1,7 @@
 ---
-title: Technical Writing
+title: Browse by Topic
 layout: categories
-permalink: /tech-writing/
-taxonomy: tech-writing
+permalink: /topics/
 entries_layout: # list (default), grid
 author_profile: true
 ---
