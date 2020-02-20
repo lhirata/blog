@@ -1,16 +1,5 @@
 ---
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+
 ---
 
 Most kids don't grow up with career goals of being a technical writer. I didn't. When I was a kid, I wanted to grow up to be a professional basketball player, a dentist, or an astronaut. Since none of those professions seem related in the least sense, how did I get to this moment in time? To being a technical writer?
