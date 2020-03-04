@@ -1,9 +1,3 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
-
 # Setup
 title:               Lauren Hirata Singh
 tagline:             'A technical writing-ish blog'
@@ -15,7 +9,7 @@ paginate:            5
 # About/contact
 author:
   name:              Lauren Hirata Singh
-  url:               https://twitter.com/lnhsingh             
+  url:               https://twitter.com/lnhsingh
 
 # Custom vars
 version:             1.0.0
