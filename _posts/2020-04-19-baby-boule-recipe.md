@@ -60,6 +60,8 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 7. Repeat the pinching and folding until the dough is about 77F (or about 5-7 minutes).     
 8. Cover the bowl with plastic wrap and let sit in a warm spot for 20-30 minutes.
 
+    A good warm spot is your oven (turned **off**) with the oven light on. Just don't forget your dough is in there!
+
 ### Turn Your Dough (Bulk Fermentation)
 
 1. Fold the dough, like you did in step 4. This is your first "turn".
