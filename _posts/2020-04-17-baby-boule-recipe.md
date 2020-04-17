@@ -1,8 +1,8 @@
 ---
+layout: post
+title: Baking a Baby Boule
 categories: bread
 ---
-
-# Baking a Baby Boule
 
 This is a recipe adapted from Ken Forkish's Pain de Campagne (from [_Flour Water Salt Yeast_](https://kensartisan.com/flour-water-salt-yeast)). It's a delicious [boule](https://www.kingarthurflour.com/blog/2018/05/31/shaping-a-boule) that I was working to make my own... before COVID-19 and Stay-At-Home orders happened.
 
