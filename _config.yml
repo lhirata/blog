@@ -3,7 +3,7 @@ author:
   name: "Lauren Hirata Singh"
   url: "https://twitter.com/lnhsingh"
 baseurl: ""
-description: "A blog that's mostly about technical writing. Written by [@lnhsingh](twitter.com/lnhsingh)."
+description: "A blog that's mostly about technical writing. Written by <a href="twitter.com/lnhsingh">@lnhsingh</a>."
 google_analytics_id: ~
 paginate: 5
 permalink: pretty
