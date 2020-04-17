@@ -14,7 +14,7 @@ In Brooklyn, all-purpose flour and yeast are hot commodities. Because of this, I
 - [Instant read thermometer](https://thewirecutter.com/reviews/the-best-instant-read-thermometer/) (nice to have for checking water and dough temperatures)
 - Medium mixing bowl
 - Plastic wrap
-- [Proofing basket](https://smile.amazon.com/gp/product/B07F6SBW7C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (if you don't have / want to buy this, you can use a dish towel and colander)
+- [Banneton](https://smile.amazon.com/gp/product/B07F6SBW7C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (if you don't have / want to buy this, you can use a dish towel and colander)
 - Plastic bag (either a grocery bag or produce bag)
 - [Dutch oven](https://thewirecutter.com/reviews/best-dutch-oven/)
 
@@ -39,8 +39,8 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 ### Mix ingredients (Autolyse)
 
 1. In a medium mixing bowl, mix water and starter together to get an even consistency.
-2. Add the flour and salt and mix to combine into a shaggy dough.
-3. Cover the bowl with plastic wrap and let sit for 20-30 minutes. This is the "autolyse" step.
+2. Add the flour and salt and [mix to combine into a shaggy dough](https://www.youtube.com/watch?v=C4tgEQw4ibs).
+3. Cover the bowl with plastic wrap and let sit for 20-30 minutes. This is the ["autolyse"](https://www.kingarthurflour.com/blog/2017/09/29/using-the-autolyse-method) step.
 
     Note: Save this plastic wrap to recover your bowl later!
 
@@ -64,24 +64,24 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 
 ### Turn Your Dough (Bulk Fermentation)
 
-1. Fold the dough, like you did in step 4. This is your first "turn".
+1. [Fold the dough](https://www.youtube.com/watch?v=CQHuWDEo3SA), like you did in step 4. This is your first "turn".
 2. Cover the bowl with plastic wrap and let sit for another 20-30 minutes.
 3. Fold the dough, like you did in step 4. This is your second "turn".
 4. Cover the bowl with plastic wrap and let sit for another 20-30 minutes.
-5. Fold the dough, like you did in step 4. This is your third-- and last-- "turn". Let sit until the dough has about double in size (for about 1.5-2 hours from your last fold, or about 5 hours after you did step 5). This is the rest of your "bulk fermentation" or "bulk rise" step.
+5. Fold the dough, like you did in step 4. This is your third-- and last-- "turn". Let sit until the dough has about double in size (for about 1.5-2 hours from your last fold, or about 5 hours after you did step 5). This is the rest of your ["bulk fermentation"](https://www.kingarthurflour.com/blog/2019/07/22/bread-dough-bulk-fermentation) or "bulk rise" step.
 
 ### Shape Your Dough
 
 1. With floured hands, gently ease the dough out onto a lightly floured surface. Shape the dough like you did in step 4, with the seams gathering in the middle.
 2. Gently pick up the dough and place with the seam-side down.
-3. Shape the dough into a tight ball:
+3. [Shape the dough](https://www.youtube.com/watch?v=MPdedk9gJLQ) into a tight ball:
 
     - Cup your hands around the back of the dough ball.
     - Pull the dough ball toward you, about 6 inches. This should tighten the dough ball.
     - Turn the dough ball a quarter turn, and repeat.
     - Turn and pull the dough ball until you have gone all the way around the dough ball 2-3 times.
 
-4. Lightly flour the proofing basket (aka banneton). If you're using a dish towel and colander, lay the dish towel flat in the colander and lightly flour the dish towel. You need enough flour so the dough won't stick.
+4. Lightly flour the banneton. If you're using a dish towel and colander, lay the dish towel flat in the colander and lightly flour the dish towel. You need enough flour so the dough won't stick.
 5. Scoop the dough ball up with your hands and place seam-side down in the basket / towel-lined colander.
 
 ### Wait (Second Rise)
