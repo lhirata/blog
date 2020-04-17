@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "Hello World"
+date: 2020-02-19 00:00:00 -0000
 categories: tech-writing
 ---
 
