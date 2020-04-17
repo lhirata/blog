@@ -104,7 +104,7 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 ## Sample Schedule
 
  Time   | Step
---------+-------------
+--------|-------
 10:00AM | [Feed your starter](#feed-your-starter)
 3:30PM  | [Mix ingredients](#mix-ingredients-autolyse)
 4:30PM  | [Turn your dough](#turn-your-dough-bulk-fermentation) <br>(Last turn at 5:30PM)
@@ -113,7 +113,7 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 8:30AM  | [Preheat your dutch oven](#bake-your-boule)
 9:30AM  | [Bake your boule](#bake-your-boule)
 
-## Baker's Notes
+## Notes
 
 - This is a WIP recipe, so please let me know if anything is confusing!
 - The second rise is flexible if you keep your dough in the fridge. Most times, I bake my boule on Sunday morning around 10AM after sleeping in a bit :)
