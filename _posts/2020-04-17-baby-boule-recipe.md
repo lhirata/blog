@@ -9,6 +9,8 @@ This is a recipe adapted from Ken Forkish's Pain de Campagne (from [_Flour Water
 
 In Brooklyn, all-purpose flour and yeast are hot commodities. Because of this, I've been conserving my ingredients and making what I've been calling "petite pain de campagne". But since this doesn't really follow Ken's PDC recipe very closely, let's just call this my "baby boule" recipe.
 
+<img src="assets/baby-boule/size.png" alt="baby boule size" height="500">
+
 ## Kitchen Supplies
 
 - Medium mixing bowl
@@ -103,6 +105,8 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 6. Bake covered for 25 minutes.
 7. Remove the lid and bake for about another 15 minutes. Be sure to watch the color of the crust here-- pull the dutch oven out once the boule is dark brown and the seam edges are nice and crispy.
 8. Remove the boule from the dutch oven and let cool for at least 20 minutes. You can use a wire rack or just tip the loaf up on it's side.
+
+<img src="assets/baby-boule/headshot.jpg" alt="baby boule headshot" height="500"> 
 
 ## Sample Schedule
 
