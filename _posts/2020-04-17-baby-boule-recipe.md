@@ -11,13 +11,16 @@ In Brooklyn, all-purpose flour and yeast are hot commodities. Because of this, I
 
 ## Kitchen Supplies
 
-- [Kitchen scale](https://thewirecutter.com/reviews/best-kitchen-scale/) (nice to have for measuring ingredients)
-- [Instant read thermometer](https://thewirecutter.com/reviews/the-best-instant-read-thermometer/) (nice to have for checking water and dough temperatures)
 - Medium mixing bowl
 - Plastic wrap
 - [Banneton](https://smile.amazon.com/gp/product/B07F6SBW7C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (if you don't have / want to buy this, you can use a dish towel and colander)
 - Plastic bag (either a grocery bag or produce bag)
 - [Dutch oven](https://thewirecutter.com/reviews/best-dutch-oven/)
+
+### Nice-to-have Supplies
+
+- [Kitchen scale](https://thewirecutter.com/reviews/best-kitchen-scale/),for measuring ingredients
+- [Instant read thermometer](https://thewirecutter.com/reviews/the-best-instant-read-thermometer/),for checking water and dough temperatures
 
 Note: The Wirecutter is not sponsoring me, but they might as well should be with how often I refer people to them!
 
@@ -39,13 +42,13 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 
 ### Mix ingredients (Autolyse)
 
-1. In a medium mixing bowl, mix water and starter together to get an even consistency.
-2. Add the flour and salt and [mix to combine into a shaggy dough](https://www.youtube.com/watch?v=C4tgEQw4ibs).
+1. In a medium mixing bowl, mix water (175g) and starter (60g) together to get an even consistency.
+2. Add the flour (250g) and [mix to combine into a shaggy dough](https://www.youtube.com/watch?v=C4tgEQw4ibs).
 3. Cover the bowl with plastic wrap and let sit for 20-30 minutes. This is the ["autolyse"](https://www.kingarthurflour.com/blog/2017/09/29/using-the-autolyse-method) step.
 
-    Note: Save this plastic wrap to recover your bowl later!
+    Tip: Save this plastic wrap to recover your bowl later!
 
-4. Add the salt and incorporate:
+4. Add the salt (5g) and incorporate:
 
     - Wet your dominant/working hand.
     - Hold the mixing bowl in your non-dominant hand.
@@ -61,7 +64,7 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 7. Repeat the pinching and folding until the dough is about 77F (or about 5-7 minutes).     
 8. Cover the bowl with plastic wrap and let sit in a warm spot for 20-30 minutes.
 
-    A good warm spot is your oven (turned **off**) with the oven light on. Just don't forget your dough is in there!
+    Tip: A good warm spot is your oven (turned **off**) with the oven light on. Just don't forget your dough is in there!
 
 ### Turn Your Dough (Bulk Fermentation)
 
@@ -98,7 +101,7 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 4. CAREFULLY (!) ease the dough into the dutch oven. Be careful not to touch the sides of the really hot dutch oven!
 5. Replace the dutch oven lid and put the whole thing back in the oven.
 6. Bake covered for 25 minutes.
-7. Remove the lid and bake for about another 15 minutes. Be sure to watch the color of the crust here-- pull the dutch oven out once it's dark brown and the seam edges are nice and crispy.
+7. Remove the lid and bake for about another 15 minutes. Be sure to watch the color of the crust here-- pull the dutch oven out once the boule is dark brown and the seam edges are nice and crispy.
 8. Remove the boule from the dutch oven and let cool for at least 20 minutes. You can use a wire rack or just tip the loaf up on it's side.
 
 ## Sample Schedule
@@ -112,6 +115,7 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 7:40PM  | [Second rise](#wait-second-rise)
 8:30AM  | [Preheat your dutch oven](#bake-your-boule)
 9:30AM  | [Bake your boule](#bake-your-boule)
+10:45AM | Eat!
 
 ## Notes
 
