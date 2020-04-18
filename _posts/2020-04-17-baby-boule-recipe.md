@@ -11,7 +11,7 @@ In Brooklyn, all-purpose flour and yeast are hot commodities. Because of this, I
 
 <img src="{{ site.url }}/assets/baby-boule/size.png" alt="baby boule size" height="500">
 
-In this recipe:
+**In this recipe:**
 
 - [Kitchen Supplies](#kitchen-supplies)
 - [Ingredients](#ingredients)
@@ -23,25 +23,25 @@ In this recipe:
 
 - Medium mixing bowl
 - Plastic wrap
-- [Banneton](https://smile.amazon.com/gp/product/B07F6SBW7C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) (if you don't have / want to buy this, you can use a dish towel and colander)
-- Plastic bag (either a grocery bag or produce bag)
+- [Banneton](https://smile.amazon.com/gp/product/B07F6SBW7C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - if you don't have / want to buy this, you can use a dish towel and colander.
+- Plastic bag, either a grocery bag or produce bag
 - [Dutch oven](https://thewirecutter.com/reviews/best-dutch-oven/)
 
 ### Nice-to-have Supplies
 
-- [Kitchen scale](https://thewirecutter.com/reviews/best-kitchen-scale/),for measuring ingredients
-- [Instant read thermometer](https://thewirecutter.com/reviews/the-best-instant-read-thermometer/),for checking water and dough temperatures
+- [Kitchen scale](https://thewirecutter.com/reviews/best-kitchen-scale/), for measuring ingredients
+- [Instant read thermometer](https://thewirecutter.com/reviews/the-best-instant-read-thermometer/), for checking water and dough temperatures
 
-Note: The Wirecutter is not sponsoring me, but they moght as well with how often I refer people to them!
+_Note: [The Wirecutter](thewirecutter.com) is not sponsoring me, but they might as well with how often I refer people to them!_
 
 ## Ingredients
 
-- 200g all-purpose flour, 50g bread flour (or a mix of all-purpose, bread, whole wheat, rye, etc. flour adding up to 250g)
+- 200g all-purpose flour + 50g bread flour (or a mix of all-purpose, bread, whole wheat, rye, etc. flour adding up to 250g)
 - 175g of warm water (about 95F)
 - 60g fed [sourdough starter](https://www.kingarthurflour.com/blog/2012/04/05/creating-your-own-sourdough-starter-the-path-to-great-bread)
 - 5g kosher salt
 
-Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient Weight Chart](https://www.kingarthurflour.com/learn/ingredient-weight-chart) to do conversions.
+_Tip: If you don't have a kitchen scale, you can use [King Arthur's Ingredient Weight Chart](https://www.kingarthurflour.com/learn/ingredient-weight-chart) to do conversions._
 
 ## Instructions
 
@@ -56,7 +56,7 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 2. Add the flour (250g) and [mix to combine into a shaggy dough](https://www.youtube.com/watch?v=C4tgEQw4ibs).
 3. Cover the bowl with plastic wrap and let sit for 20-30 minutes. This is the ["autolyse"](https://www.kingarthurflour.com/blog/2017/09/29/using-the-autolyse-method) step.
 
-    Tip: Save this plastic wrap to recover your bowl later!
+    _Tip: Save this plastic wrap to recover your bowl later!_
 
 4. Add the salt (5g) and incorporate:
 
@@ -74,7 +74,7 @@ Note: If you don't have a kitchen scale, you can use [King Arthur's Ingredient W
 7. Repeat the pinching and folding until the dough is about 77F (or about 5-7 minutes).     
 8. Cover the bowl with plastic wrap and let sit in a warm spot for 20-30 minutes.
 
-    Tip: A good warm spot is your oven (turned **off**) with the oven light on. Just don't forget your dough is in there!
+    _Tip: A good warm spot is your oven (turned **off**) with the oven light on. Just don't forget your dough is in there!_
 
 ### Turn Your Dough (Bulk Fermentation)
 
